@@ -111,7 +111,7 @@ justify-content: space-between;
 .desktop{
 display: none;
 }
-/* .a {
+.a {
 
 animation: pulse 4s linear infinite;
 }
@@ -124,7 +124,7 @@ transform: scale(0.9);
 -webkit-transform: scale(1);
 transform:scale(1);
 }
-} */
+}
 
 .hero{
 padding: 3rem 2rem 4rem 2rem;
